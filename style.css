@@ -1,0 +1,16 @@
+.header {
+	background: purple;
+	padding: 10px;
+	margin: 20px; 
+	border: 10px aquamarine solid;
+}
+.sidebar {
+	max-width: 25%;
+	background: linear-gradient(black, grey); 
+	border: 10px solid;
+	display: inline-block; 
+.main { 
+	display: inline-block; 
+	border: 10px solid black; 
+	background: bisque; 
+}
